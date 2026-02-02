@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "284b6462-fb77-4cf3-b8ef-e3daf1ecc8f6")
+	(paper "A5" portrait)
+	(title_block
+		(date "2026-02-01")
+		(comment 1 "I_D: Digital Input")
+		(comment 2 "I_A: Analog Input")
+		(comment 3 "O_D: Digital Output")
+		(comment 4 "O_A: Analog Output")
+		(comment 5 "S_E: Echo")
+		(comment 6 "S_T: Trigger")
+	)
+	(lib_symbols)
+)
